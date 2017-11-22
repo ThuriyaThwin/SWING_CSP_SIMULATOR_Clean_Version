@@ -5,6 +5,7 @@ Solve in spring - year 2012.
 Labs for search (BFS, DFS, Hillclimbing, Alpha-beta) + First Order Logic
 
 Solve the AI problem
+
 I) Search solution for Problem using DeapthFirstSearch or BreadFirstSearch
  1. EightPuzzle
  2. FamilyCrisis
